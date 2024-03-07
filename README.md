@@ -4,9 +4,9 @@ HEX Color Generator is a simple tool that generates random HEX color codes and a
 
 ## Features
 
-- Color Generation:** Clicking the "Generate Color" button generates a random HEX color code.
-- Dynamic Page Background:** The generated color is applied to the background of the web page in real time.
-- Color Code Copy:** Users can easily copy the generated HEX color code with the click of a button.
+- **Color Generation:** Clicking the "Generate Color" button generates a random HEX color code.
+- **Dynamic Page Background:** The generated color is applied to the background of the webpage in real-time.
+- **Color Code Copying:** Users can easily copy the generated HEX color code with the click of a button.
 
 ## Demo
 
